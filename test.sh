@@ -1,3 +1,3 @@
-echo "what.."
+echo "what..."
 sleep 2
 
